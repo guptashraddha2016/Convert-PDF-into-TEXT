@@ -3,5 +3,7 @@ Build NER model using EasyOCR python packages for text detection.Use neccessary 
 # File Description 
   1. Convert-PDF-into-TEXT (NoteBook)
   2. README
+# Packages and Libraries
+used python 3 to run with neccessary packages like poppler-utils, EasyOCR, pdf2image and libraries NumPy , PIL, Spacy
 
 
